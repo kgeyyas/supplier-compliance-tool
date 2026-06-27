@@ -2,9 +2,9 @@
 
 Built with **GAP OS** using **The Signal Hunter Framework**.
 
-COMPLIA is an open-source supplier compliance audit and vendor risk assessment framework designed to help organizations evaluate, monitor, and continuously improve supplier reliability, regulatory compliance, and supply chain resilience.
+COMPILA is an open-source supplier compliance audit and vendor risk assessment framework designed to help organizations evaluate, monitor, and continuously improve supplier reliability, regulatory compliance, and supply chain resilience.
 
-Unlike traditional compliance tools that focus on static questionnaires, COMPLIA is designed as a **continuous supplier intelligence system**.
+Unlike traditional compliance tools that focus on static questionnaires, COMPILA is designed as a **continuous supplier intelligence system**.
 
 ---
 
@@ -18,7 +18,7 @@ Modern supplier compliance platforms (e.g. enterprise TPRM systems such as OneTr
 - Automated compliance evidence collection
 - Cross-regulation mapping (ESG, ISO, GDPR, NIS2, DORA)
 
-COMPLIA is designed to bring these capabilities into an open-source, modular framework aligned with GAP OS.
+COMPILA is designed to bring these capabilities into an open-source, modular framework aligned with GAP OS.
 
 ---
 
@@ -101,7 +101,7 @@ Connect supplier compliance intelligence across the GAP OS ecosystem.
 
 # Long-Term Vision
 
-COMPLIA is not a checklist tool.
+COMPILA is not a checklist tool.
 
 It is designed to become an **open supplier intelligence layer** that:
 
@@ -110,6 +110,6 @@ It is designed to become an **open supplier intelligence layer** that:
 - Automates compliance evidence generation
 - Connects trade, cost, and regulatory intelligence into one system
 
-Ultimately, COMPLIA becomes a core node in the **GAP OS decision intelligence network**.
+Ultimately, COMPILA becomes a core node in the **GAP OS decision intelligence network**.
 
 Built with **GAP OS** using **The Signal Hunter Framework**.
